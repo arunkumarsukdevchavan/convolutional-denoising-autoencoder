@@ -1,6 +1,6 @@
 # EX-07 Convolutional Autoencoder for Image Denoising
 ### Aim:
-To develop a convolutional autoencoder for image denoising application. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :14-10-2024**
+To develop a convolutional autoencoder for image denoising application. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :**
 ### Problem Statement and Dataset:
 An autoencoder is an unsupervised neural network that encodes input images into lower-dimensional representations and decodes them back, aiming for identical outputs. We use the MNIST dataset, consisting of 60,000 handwritten digits (28x28 pixels), to train a convolutional neural network for digit classification. The goal is to accurately classify each digit into one of 10 classes, from 0 to 9.
 ### Convolution Autoencoder Network Model
